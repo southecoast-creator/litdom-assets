@@ -1,0 +1,20 @@
+{
+  "name": "Litdom",
+  "short_name": "Litdom",
+  "start_url": "https://YOUR-HOMEPAGE-URL/",
+  "display": "standalone",
+  "background_color": "#1a0a14",
+  "theme_color": "#c9a24b",
+  "icons": [
+    {
+      "src": "URL_TO_YOUR_192_ICON",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "URL_TO_YOUR_512_ICON",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
