@@ -7,14 +7,14 @@
   "theme_color": "#c9a24b",
   "icons": [
     {
-      "src": "URL_TO_YOUR_192_ICON",
+      "src": "https://res.cloudinary.com/dgsjpxv4f/image/upload/v1789262003/grok_1785873173081_2_tdardc.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
       "src": "URL_TO_YOUR_512_ICON",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ]
 }
