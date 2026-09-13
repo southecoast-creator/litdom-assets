@@ -1,7 +1,7 @@
 {
   "name": "Litdom",
   "short_name": "Litdom",
-  "start_url": "https://YOUR-HOMEPAGE-URL/",
+  "start_url": "litdom.blogspot.com",
   "display": "standalone",
   "background_color": "#1a0a14",
   "theme_color": "#c9a24b",
@@ -12,9 +12,9 @@
       "type": "image/jpg"
     },
     {
-      "src": "URL_TO_YOUR_512_ICON",
+      "src": "https://res.cloudinary.com/dgsjpxv4f/image/upload/v1789262108/Litdom_20260907_031804_0000_wy6jn8.png",
       "sizes": "512x512",
-      "type": "image/jpg"
+      "type": "image/png"
     }
   ]
 }
