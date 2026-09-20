@@ -3,8 +3,8 @@
   "short_name": "Litdom",
   "start_url": "litdom.blogspot.com",
   "display": "standalone",
-  "background_color": "#1a0a14",
-  "theme_color": "#c9a24b",
+  "background_color": "#D4AF37",
+  "theme_color": "#D4AF37",
   "icons": [
     {
       "src": "https://res.cloudinary.com/dgsjpxv4f/image/upload/w_192,h_192,c_fill/v1789325427/20260913_193958_0000_ynffq0.png",
